@@ -17,3 +17,7 @@ function multiply(a,b){
 function divide(b,a){
   return(b/a);
 }
+
+function inc(n){
+  return++
+}
